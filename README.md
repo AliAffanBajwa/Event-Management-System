@@ -12,7 +12,7 @@ A simple Django-based event management system that allows users to create, updat
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/event-management.git
+   git clone https://github.com/AliAffanBajwa/Event-Management-System.git
    cd event-management
    ```
 2. Create and activate a virtual environment:
